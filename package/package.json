@@ -1,0 +1,25 @@
+{
+  "name": "swapsia",
+  "version": "0.0.1",
+  "description": "swap NFTs for each other or for BSV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyteNetworkIO/Swapsia.git"
+  },
+  "keywords": [
+    "bsv",
+    "nft",
+    "exchange",
+    "tokens"
+  ],
+  "author": "Lyte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LyteNetworkIO/Swapsia/issues"
+  },
+  "homepage": "https://github.com/LyteNetworkIO/Swapsia#readme"
+}
