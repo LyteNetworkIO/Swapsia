@@ -1,6 +1,6 @@
 {
-  "name": "swapsia",
-  "version": "0.0.1",
+  "name": "@lytenetwork/swapsia",
+  "version": "0.0.2",
   "description": "swap NFTs for each other or for BSV",
   "main": "index.js",
   "scripts": {
